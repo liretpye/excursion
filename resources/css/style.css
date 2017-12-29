@@ -3,11 +3,11 @@ body {
 	font-family: verdana, sans-serif;
 	color: white;
 	text-align: center;
+	font-weight: normal;
 }
 
 h1 {
 	font-size: 50px;
-	font-weight: normal;
 	text-align: center;
 }
 .header .time a {
@@ -23,7 +23,6 @@ h2 {
 h3 {
 	color: gray;
 	font-size: 21px;
-	font-weight: normal;
 }
 
 .footer {
