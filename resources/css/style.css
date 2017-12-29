@@ -23,9 +23,14 @@ h2 {
 h3 {
 	color: gray;
 	font-size: 21px;
+	font-weight: normal;
 }
 
 .footer {
 	text-align: right;
 	color: gray;
+}
+
+.time {
+	padding-top: 20px;
 }
